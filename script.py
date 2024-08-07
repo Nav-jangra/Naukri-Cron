@@ -25,9 +25,9 @@ from webdriver_manager.chrome import ChromeDriverManager as CM
 
 
 # Add folder Path of your resume
-originalResumePath = r"E:\Nukri profile updater\Naveen_Jangra_1__Backend_Engineer_Yatra.pdf"
+originalResumePath = 'Naveen_Jangra_1__Backend_Engineer_Yatra.pdf'
 # Add Path where modified resume should be saved
-modifiedResumePath = r"E:\Nukri profile updater\Naveen_Jangra_1+_Backend_Engineer_Yatra.pdf"
+modifiedResumePath = 'Naveen_Jangra_1+_Backend_Engineer_Yatra.pdf'
 
 # Update your naukri username and password here before running
 username = "naveen.jangra0813@gmail.com"
